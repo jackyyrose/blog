@@ -1,14 +1,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-
-
-
-
-
-
-
-                                   Too young, too simple. Sometimes, naive.
+see documents under dir:
+author/blog/issues/1~13
 
 
 
